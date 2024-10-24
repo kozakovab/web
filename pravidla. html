@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pravidla volejbalu</title>
+  
+</head>
+<body>
+    <header>
+        <h1>Pravidla volejbalu</h1>
+    </header>
+    
+    <nav>
+        <a href="index.html">Domů</a>
+        <a href="historie.html">Historie volejbalu</a>
+        <a href="pravidla.html">Pravidla volejbalu</a>
+    </nav>
+
+    <section>
+        <article>
+            <h2>Základní pravidla</h2>
+            <ul>
+                <li>Každý tým má 6 hráčů.</li>
+                <li>Hráči se na hřišti střídají podle určeného pořadí.</li>
+                <li>Hra začíná podáním zpoza koncové čáry.</li>
+                <li>Cílem je zasáhnout míč tak, aby dopadl na soupeřovu polovinu hřiště.</li>
+                <li>Hra se hraje na tři vítězné sety.</li>
+            </ul>
+            <img src="https://image3.slideserve.com/5793938/slide7-l.jpg" alt="Postavení" width="500px">
+        </article>
+    </section>
+
+    <footer>
+        <p>© 2024 Volejbalové stránky</p>
+    </footer>
+</body>
+</html>
